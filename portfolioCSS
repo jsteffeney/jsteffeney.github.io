@@ -1,0 +1,25 @@
+*{
+    font-family: Cursive;
+    background-color: lightcoral;
+}
+h1{
+    font-family: Cursive;
+    font-weight: bold;
+    font-size: 36px;
+    color: rgb(141, 76, 161);
+    text-align: center;
+}
+
+h2{
+    font-family: Cursive;
+    text-align: center;
+    color: rgb(141, 76, 161);
+}
+
+p{
+    text-align: center;
+}
+
+h4, li{
+    text-align: center;
+}
